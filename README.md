@@ -9,7 +9,7 @@ benchmark_real_model.py: A pipeline using Hugging Face to test actual text gener
 
  Performance Highlights (Local CPU Benchmark)
 I tested the text generation speed on my Apple Silicon CPU, and the results were actually pretty awesome:
-Custom Block Latency (Heavy Workload):** ~0.051 seconds per block.
+Custom Block Latency (Heavy Workload): ~0.051 seconds per block.
 Local LLM Generation Speed (Qwen2.5-0.5B):** **24.34 tokens per second** ⚡ (Super fast for local CPU inference!)
 
 Built with code and curiosity as part of my AI Engineering journey.
